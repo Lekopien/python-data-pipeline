@@ -69,10 +69,9 @@ def write_report(out_dir: Path, summary: dict, months, regions, products, reject
     reason_rows = "".join(f"<tr><td>{html.escape(k)}</td><td>{v}</td></tr>" for k, v in sorted(reasons.items(), key=lambda kv: -kv[1]))
     page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Sales report</title><style>
-:root{{--bg:#fff;--fg:#141821;--muted:#5b6475;--line:#e3e6ee;--accent:#7c5cff;--panel:#f7f8fb}}
-@media (prefers-color-scheme:dark){{:root{{--bg:#0b0d12;--fg:#e8ebf2;--muted:#9aa3b5;--line:#232937;--panel:#141821}}}}
-body{{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,sans-serif}}main{{max-width:900px;margin:0 auto;padding:24px 16px}}
-.kpis{{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}}.kpi{{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}}
+:root{{--bg:#0d1515;--fg:#dce4e5;--muted:#b9cacb;--line:rgba(0,240,255,.15);--accent:#00f0ff;--panel:#151d1e;color-scheme:dark}}
+body{{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 Inter,system-ui,sans-serif}}main{{max-width:900px;margin:0 auto;padding:24px 16px}}
+.kpis{{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}}.kpi{{background:var(--panel);border:1px solid var(--line);border-radius:4px;padding:12px}}
 .kpi span{{display:block;color:var(--muted);font-size:13px}}.kpi b{{font-size:20px}}h2{{margin-top:32px;font-size:18px}}
 .bar{{fill:var(--accent)}}.lbl,.val{{fill:var(--muted);font-size:13px}}.line{{fill:none;stroke:var(--accent);stroke-width:3}}.dot{{fill:var(--accent)}}.axis{{stroke:var(--line)}}
 table{{border-collapse:collapse}}td{{padding:4px 14px 4px 0;border-bottom:1px solid var(--line)}}small{{color:var(--muted)}}
