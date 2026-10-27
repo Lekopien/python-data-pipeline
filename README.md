@@ -57,3 +57,7 @@ CI runs the tests, executes the pipeline and uploads the report as a build artif
 ## License
 
 MIT
+
+## Author
+
+Built by **David Lekopien** ([@Lekopien](https://github.com/Lekopien)) · [lekopien.com](https://lekopien.com)
