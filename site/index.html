@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Python Data Pipeline · Lekopien</title>
+  <meta name="description" content="A dependency-free Python ETL pipeline: it streams a dirty sales export, validates and cleans every row, loads SQLite idempotently and renders a report with hand-drawn SVG charts.">
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="https://lekopien.com">lekopien<span>.</span>data</a>
+  <nav><a href="#features">Features</a><a href="#demo">Demo</a><a href="#code">Code</a><a href="https://github.com/Lekopien/python-data-pipeline">GitHub</a></nav>
+</div></header>
+<main class="wrap">
+  <div class="hero">
+    <span class="tag">Data engineering · Python</span>
+    <h1>From messy CSV to clean insight</h1>
+    <p class="lead">A dependency-free Python ETL pipeline: it streams a dirty sales export, validates and cleans every row, loads SQLite idempotently and renders a report with hand-drawn SVG charts.</p>
+    <div class="btns"><a class="btn" href="https://github.com/Lekopien/python-data-pipeline">View source</a><a class="btn ghost" href="#code">Run it locally</a></div>
+  </div>
+  <section id="features"><h2>Highlights</h2><div class="grid"><div class="card"><h3>Real-world cleaning</h3><p>Three date formats, region typos, KES and USD prices with separators, duplicates, blanks.</p></div><div class="card"><h3>Nothing silently dropped</h3><p>Every rejected row is written to rejected.csv with the reason.</p></div><div class="card"><h3>Exact money</h3><p>Decimal arithmetic end to end; no floating-point drift in totals.</p></div><div class="card"><h3>Idempotent load</h3><p>INSERT OR REPLACE keyed by order id, so reruns never duplicate data.</p></div><div class="card"><h3>Charts without libraries</h3><p>SVG line and bar charts generated in pure Python.</p></div><div class="card"><h3>Automated</h3><p>CI runs tests, executes the pipeline and publishes the report as an artifact.</p></div></div></section>
+  <section id="demo"><h2>Try it</h2><div class="card" style="padding:0;overflow:hidden"><iframe src="report/" title="Generated sales report" style="width:100%;height:720px;border:0;display:block"></iframe></div><p><a href="report/">Open the report full screen</a> · <a href="report/report.json">report.json</a></p></section>
+  <section id="code"><h2>Run it</h2><h3>Run</h3><pre><code>git clone https://github.com/Lekopien/python-data-pipeline
+cd python-data-pipeline
+python3 -m pipeline
+python3 -m unittest -v</code></pre><h3>Output</h3><pre><code>INFO extracted+cleaned: 585 good, 30 rejected
+INFO loaded: 585 rows in sales.db
+INFO report written to report in 0.03s</code></pre></section>
+  <section><h2>Stack</h2><div class="chips"><span class="chip">Python 3.10+</span><span class="chip">csv</span><span class="chip">decimal</span><span class="chip">sqlite3</span><span class="chip">dataclasses</span><span class="chip">SVG</span><span class="chip">GitHub Actions</span></div></section>
+</main>
+<footer><div class="wrap">Built by <a href="https://lekopien.com">Lekopien</a>. Part of the Lekopien project portfolio. <a href="https://github.com/Lekopien/python-data-pipeline">Source on GitHub</a>.</div></footer>
+
+</body>
+</html>

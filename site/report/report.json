@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-10-27T17:40:38",
+  "summary": {
+    "orders": 585,
+    "revenue_kes": 24204024,
+    "avg_order_kes": 41374,
+    "customers": 171,
+    "repeat_customers": 144
+  },
+  "revenue_by_month": {
+    "2026-01": 2280006,
+    "2026-02": 2682004,
+    "2026-03": 2633005,
+    "2026-04": 2356001,
+    "2026-05": 2297003,
+    "2026-06": 3922000,
+    "2026-07": 3548005,
+    "2026-08": 2376998,
+    "2026-09": 2109002
+  },
+  "revenue_by_region": {
+    "Mombasa": 5324996,
+    "Kisumu": 5051000,
+    "Eldoret": 4781012,
+    "Nairobi": 4717014,
+    "Nakuru": 4330002
+  },
+  "revenue_by_product": {
+    "Online store": 11159985,
+    "Business website": 7155000,
+    "Landing page": 2250000,
+    "SEO package": 1424023,
+    "Speed audit": 1320016,
+    "Maintenance (monthly)": 895000
+  },
+  "rejected": {
+    "count": 30,
+    "reasons": {
+      "missing qty": 8,
+      "duplicate order_id": 15,
+      "unparseable date": 4,
+      "non-positive price": 3
+    }
+  }
+}

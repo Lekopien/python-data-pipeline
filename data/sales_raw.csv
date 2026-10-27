@@ -1,0 +1,616 @@
+order_id,date,customer,region,product,qty,unit_price,currency
+ORD-1373,Mar 10 2026,Customer 101,Nakuru,Online store,3,"90,000",KES
+ORD-1432,24/08/2026,Customer 56,Kisumu,Online store,2,697.67,USD
+ORD-1519,Mar 16 2026,Customer 124,Mombasa,Maintenance (monthly),1,5000,KES
+ORD-1002,Aug 18 2026,Customer 72,Mombasa,Maintenance (monthly),3,5000,KES
+ORD-1217,2026-01-15,Customer 12,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1351,May 26 2026,Customer 7,Mombasa,Landing page,3,15000,KES
+ORD-1543,2026-07-09,Customer 156,Nakuru,Maintenance (monthly),1,"5,000",KES
+ORD-1378,2026-06-17,Customer 24,Eldoret,Online store,1,697.67,USD
+ORD-1363,27/03/2026,Customer 41,Nakuru,SEO package,1,8000,KES
+ORD-1527,2026-03-24,Customer 162,Nairbi,SEO package,1,8000,KES
+ORD-1269,Jun 13 2026,Customer 154,Mombasa,Landing page,1,15000,KES
+ORD-1520,2026-07-09,Customer 11,Mombasa,Landing page,1,15000,KES
+ORD-1242,2026-09-03,Customer 52,Nairobi,Speed audit,2,8000,KES
+ORD-1569,31/03/2026,Customer 91,Mombasa,Maintenance (monthly),3,5000,KES
+ORD-1486,2026-06-01,Customer 139,Kisumu,Business website,1,348.84,USD
+ORD-1024,30/07/2026,Customer 14, Nairobi ,Business website,2,45000,KES
+ORD-1090,25/09/2026,Customer 116,Eldoret,SEO package,3,8000,KES
+ORD-1235,2026-07-14,Customer 175,Nairobi,Speed audit,1,8000,KES
+ORD-1403,18/01/2026,Customer 6,Mombasa,Business website,1,45000,KES
+ORD-1339,2026-07-23,Customer 110,Nairobi,Landing page,1,116.28,USD
+ORD-1314,24/07/2026,Customer 111,Eldoret,Speed audit,3,62.02,USD
+ORD-1522,31/03/2026,Customer 168,Eldoret,Speed audit,1,8000,KES
+ORD-1001,2026-04-22,Customer 130,Nairobi,Maintenance (monthly),1,5000,KES
+ORD-1545,Jan 18 2026,Customer 131,Mombasa,Landing page,3,15000,KES
+ORD-1173,2026-06-21,Customer 85,Nakuru,SEO package,3,"8,000",KES
+ORD-1000,Mar 13 2026,Customer 27,nairobi,Speed audit,1,8000,KES
+ORD-1060,May 07 2026,Customer 71,Nakuru,Maintenance (monthly),2,5000,KES
+ORD-1518,May 03 2026,Customer 176,Nakuru,Landing page,3,"15,000",KES
+ORD-1251,27/07/2026,Customer 132,Mombasa ,Maintenance (monthly),3,38.76,USD
+ORD-1203,2026-03-23,Customer 37,Nakuru,Speed audit,3,8000,KES
+ORD-1053,14/06/2026,Customer 114,Nairobi,Maintenance (monthly),1,5000,KES
+ORD-1367,24/01/2026,Customer 18,NAIROBI,Speed audit,1,8000,KES
+ORD-1189,2026-05-28,Customer 78,Eldoret,Maintenance (monthly),2,"5,000",KES
+ORD-1525,Jul 05 2026,Customer 31,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1400,May 08 2026,Customer 18,Kisumu,Landing page,1,15000,KES
+ORD-1160,22/01/2026,Customer 5,Kisumu,Speed audit,2,62.02,USD
+ORD-1361,May 18 2026,Customer 31,Eldoret,Maintenance (monthly),1,5000,KES
+ORD-1590,08/05/2026,Customer 114,Kisumu,Business website,1,45000,KES
+ORD-1085,2026-02-21,Customer 76,Eldoret,Online store,3,90000,KES
+ORD-1354,04/08/2026,Customer 140,Kisumu,Landing page,1,15000,KES
+ORD-1207,May 14 2026,Customer 115,Eldoret,SEO package,3,8000,KES
+ORD-1595,2026-02-15,Customer 41,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1562,25/06/2026,Customer 48,Mombasa,Online store,2,697.67,USD
+ORD-1265,Aug 06 2026,Customer 98,nairobi,Business website,1,45000,KES
+ORD-1338,08/07/2026,Customer 125,Nairobi,Landing page,3,15000,KES
+ORD-1029,2026-09-07,Customer 49,Kisumu,SEO package,3,8000,KES
+ORD-1542,2026-01-03,Customer 38,Eldoret,Online store,1,90000,KES
+ORD-1301,Feb 17 2026,Customer 154,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1071,2026-07-08,Customer 156,Nairbi,SEO package,2,8000,KES
+ORD-1496,2026-05-05,Customer 175, Nairobi ,Speed audit,1,8000,KES
+ORD-1532,Mar 18 2026,Customer 25,Mombasa,Landing page,3,"15,000",KES
+ORD-1443,2026-04-03,Customer 125,Nakuru,Maintenance (monthly),1,38.76,USD
+ORD-1340,Mar 08 2026,Customer 125,Kisumu,SEO package,1,8000,KES
+ORD-1523,Apr 25 2026,Customer 104,Nairobi,Maintenance (monthly),2,38.76,USD
+ORD-1498,Jun 01 2026,Customer 50,Eldoret,Online store,2,90000,KES
+ORD-1231,2026-09-21,Customer 84,Eldoret,SEO package,1,8000,KES
+ORD-1337,May 18 2026,Customer 107,Nakuru,Business website,1,45000,KES
+ORD-1552,Jul 15 2026,Customer 57,Nairobi,Maintenance (monthly),1,5000,KES
+ORD-1442,2026-03-19,Customer 52,Nakuru,Speed audit,1,8000,KES
+ORD-1244,31/07/2026,Customer 121,Mombasa,Maintenance (monthly),,"5,000",KES
+ORD-1462,24/07/2026,Customer 70,Kisumu,Landing page,1,15000,KES
+ORD-1508,2026-09-20,Customer 42,Mombasa,Online store,1,"90,000",KES
+ORD-1026,2026-05-08,Customer 114,Mombasa,SEO package,1,8000,KES
+ORD-1305,11/04/2026,Customer 28,Kisumu,Online store,2,"90,000",KES
+ORD-1094,12/04/2026,Customer 30,Nairbi,SEO package,1,8000,KES
+ORD-1114,Jun 18 2026,Customer 137,Kisumu,Online store,2,90000,KES
+ORD-1327,2026-07-03,Customer 125,Mombasa,Business website,2,"45,000",KES
+ORD-1478,2026-09-16,Customer 128, Nairobi ,SEO package,2,"8,000",KES
+ORD-1466,Apr 25 2026,Customer 87,Kisumu,Speed audit,3,8000,KES
+ORD-1515,11/04/2026,Customer 161,Nairobi,Maintenance (monthly),1,38.76,USD
+ORD-1454,Feb 21 2026,Customer 134,Mombasa,Business website,1,45000,KES
+ORD-1073,2026-05-05,Customer 179,Nakuru,SEO package,1,8000,KES
+ORD-1208,07/02/2026,Customer 45,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1274,2026-05-11,Customer 85,Eldoret,SEO package,1,8000,KES
+ORD-1084,2026-04-05,Customer 56,Mombasa,Speed audit,1,8000,KES
+ORD-1065,2026-09-07,Customer 70,Eldoret,SEO package,3,62.02,USD
+ORD-1499,2026-02-03,Customer 172,NAIROBI,Landing page,3,15000,KES
+ORD-1255,2026-04-24,Customer 35,Kisumu,Speed audit,1,8000,KES
+ORD-1135,2026-07-03,Customer 102,Kisumu,Business website,1,45000,KES
+ORD-1427,Aug 26 2026,Customer 102,Kisumu,Landing page,1,15000,KES
+ORD-1518,May 03 2026,Customer 176,Nakuru,Landing page,3,"15,000",KES
+ORD-1129,May 15 2026,Customer 98,Nairobi,Maintenance (monthly),1,5000,KES
+ORD-1140,02/02/2026,Customer 115,NAIROBI,Online store,2,90000,KES
+ORD-1299,2026-02-24,Customer 2,Nakuru,Business website,2,45000,KES
+ORD-1401,2026-08-03,Customer 106,nairobi,Landing page,2,15000,KES
+ORD-1371,2026-09-29,Customer 108,Nairobi,Online store,1,90000,KES
+ORD-1150,2026-07-08,Customer 72,Nakuru,Business website,1,45000,KES
+ORD-1567,19/02/2026,Customer 86,Mombasa,Landing page,2,116.28,USD
+ORD-1586,2026-01-10,Customer 13,Kisumu,SEO package,2,8000,KES
+ORD-1093,29/04/2026,Customer 73,Nakuru,SEO package,2,8000,KES
+ORD-1414,10/02/2026,Customer 9,Nakuru,Speed audit,1,8000,KES
+ORD-1391,Jun 30 2026,Customer 145,Kisumu,Speed audit,1,"8,000",KES
+ORD-1349,2026-04-22,Customer 26,Mombasa,Speed audit,3,"8,000",KES
+ORD-1058,04/03/2026,Customer 35,Eldoret,Speed audit,1,8000,KES
+ORD-1548,2026-05-22,Customer 156,Kisumu,Maintenance (monthly),3,5000,KES
+ORD-1233,09/01/2026,Customer 85,Eldoret,Maintenance (monthly),3,5000,KES
+ORD-1237,Feb 01 2026,Customer 36,Eldoret,SEO package,2,62.02,USD
+ORD-1484,Aug 02 2026,Customer 137,Nakuru,Maintenance (monthly),3,38.76,USD
+ORD-1162,2026-07-05,Customer 112,Mombasa,Online store,2,90000,KES
+ORD-1302,Feb 13 2026,Customer 144,Nairobi,SEO package,2,8000,KES
+ORD-1277,Mar 02 2026,Customer 123,Kisumu,Online store,1,697.67,USD
+ORD-1559,Sep 02 2026,Customer 9,mombasa,Maintenance (monthly),3,5000,KES
+ORD-1089,2026-06-05,Customer 64,NAIROBI,Speed audit,1,"8,000",KES
+ORD-1451,2026-03-28,Customer 94,Mombasa,Business website,1,45000,KES
+ORD-1290,2026-09-01,Customer 164, Nairobi ,Landing page,2,"15,000",KES
+ORD-1023,2026-08-31,Customer 122,Nakuru,Speed audit,3,8000,KES
+ORD-1014,2026-08-11,Customer 117,Nairobi,Landing page,1,"15,000",KES
+ORD-1064,30/06/2026,Customer 100,Nairobi,Maintenance (monthly),,5000,KES
+ORD-1092,Mar 30 2026,Customer 20,Mombasa,Business website,1,"45,000",KES
+ORD-1395,04/06/2026,Customer 35,Kisumu,Landing page,3,15000,KES
+ORD-1293,2026-06-11,Customer 54,Eldoret,Maintenance (monthly),1,38.76,USD
+ORD-1082,08/07/2026,Customer 142,Nakuru,Business website,1,45000,KES
+ORD-1556,2026-07-02,Customer 28,Mombasa ,Business website,1,348.84,USD
+ORD-1261,24/01/2026,Customer 89,Kisumu,SEO package,1,8000,KES
+ORD-1018,2026-09-30,Customer 33, Nairobi ,Maintenance (monthly),2,5000,KES
+ORD-1404,Mar 24 2026,Customer 20,Nairobi,Landing page,1,116.28,USD
+ORD-1491,2026-05-16,Customer 42,Nakuru,Landing page,2,15000,KES
+ORD-1188,10/01/2026,Customer 56,Nakuru,SEO package,1,62.02,USD
+ORD-1070,Jan 11 2026,Customer 40,nairobi,Speed audit,1,8000,KES
+ORD-1303,2026-03-28,Customer 69,Eldoret,Business website,1,45000,KES
+ORD-1561,Jul 05 2026,Customer 67,Mombasa,Speed audit,3,"8,000",KES
+ORD-1054,May 26 2026,Customer 170,Eldoret,Business website,1,45000,KES
+ORD-1446,2026-07-11,Customer 83,nairobi,SEO package,3,8000,KES
+ORD-1212,2026-02-07,Customer 82,Nakuru,SEO package,2,8000,KES
+ORD-1387,2026-05-19,Customer 7,Kisumu,SEO package,3,8000,KES
+ORD-1564,not a date,Customer 51,mombasa,Maintenance (monthly),1,"5,000",KES
+ORD-1200,Apr 03 2026,Customer 76,Nakuru,Speed audit,2,8000,KES
+ORD-1407,2026-02-19,Customer 101,Eldoret,Speed audit,1,8000,KES
+ORD-1524,13/03/2026,Customer 43,Nakuru,Online store,3,90000,KES
+ORD-1428,2026-08-17,Customer 122,Nairbi,Landing page,1,15000,KES
+ORD-1362,May 15 2026,Customer 148,Kisumu,Landing page,1,15000,KES
+ORD-1205,10/07/2026,Customer 20,Eldoret,Landing page,2,116.28,USD
+ORD-1599,28/06/2026,Customer 120,Nakuru,Maintenance (monthly),3,5000,KES
+ORD-1348,26/03/2026,Customer 90,mombasa,Business website,3,45000,KES
+ORD-1185,2026-06-28,Customer 107,Nakuru,Business website,1,"45,000",KES
+ORD-1139,May 02 2026,Customer 83,nairobi,Business website,1,"45,000",KES
+ORD-1296,23/07/2026,Customer 8,mombasa,SEO package,1,8000,KES
+ORD-1533,2026-03-02,Customer 124,Eldoret,Maintenance (monthly),3,5000,KES
+ORD-1585,2026-05-29,Customer 164,Nakuru,Online store,1,90000,KES
+ORD-1151,Jan 14 2026,Customer 169,Eldoret,SEO package,3,8000,KES
+ORD-1263,13/07/2026,Customer 21,Nakuru,Speed audit,2,8000,KES
+ORD-1270,2026-09-24,Customer 106,Mombasa,Online store,1,697.67,USD
+ORD-1300,06/04/2026,Customer 115,Kisumu,SEO package,1,8000,KES
+ORD-1133,21/03/2026,Customer 168,Eldoret,Speed audit,3,"8,000",KES
+ORD-1283,2026-06-30,Customer 36,Nakuru,Speed audit,1,8000,KES
+ORD-1240,Jun 28 2026,Customer 71,Kisumu,Online store,2,90000,KES
+ORD-1137,Apr 17 2026,Customer 56,Eldoret,Business website,1,45000,KES
+ORD-1146,18/02/2026,Customer 110,Kisumu,SEO package,2,8000,KES
+ORD-1488,Jun 10 2026,Customer 14,Nakuru,Landing page,2,116.28,USD
+ORD-1284,Feb 08 2026,Customer 13,Mombasa,SEO package,1,8000,KES
+ORD-1456,2026-09-25,Customer 92,Mombasa,SEO package,1,8000,KES
+ORD-1010,2026-08-23,Customer 68,Kisumu,Maintenance (monthly),2,"5,000",KES
+ORD-1570,27/05/2026,Customer 162,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1158,12/03/2026,Customer 75,Nairbi,Landing page,1,116.28,USD
+ORD-1063,16/04/2026,Customer 100,Kisumu,SEO package,2,8000,KES
+ORD-1117,11/07/2026,Customer 38,Nairobi,Landing page,1,15000,KES
+ORD-1083,19/05/2026,Customer 65,Eldoret,SEO package,1,8000,KES
+ORD-1209,29/05/2026,Customer 41,Nairobi,SEO package,1,8000,KES
+ORD-1273,15/03/2026,Customer 15,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1112,2026-06-19,Customer 113,Mombasa,Speed audit,1,"8,000",KES
+ORD-1326,Mar 30 2026,Customer 43,Eldoret,Business website,2,45000,KES
+ORD-1529,30/08/2026,Customer 44,Nairobi,Maintenance (monthly),1,5000,KES
+ORD-1563,24/05/2026,Customer 47,Nakuru,Business website,1,348.84,USD
+ORD-1578,Apr 01 2026,Customer 153,Kisumu,Maintenance (monthly),2,5000,KES
+ORD-1551,23/06/2026,Customer 175,Nakuru,SEO package,,8000,KES
+ORD-1215,2026-05-21,Customer 161,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1423,15/08/2026,Customer 69,Nairbi,Speed audit,1,8000,KES
+ORD-1003,2026-03-21,Customer 87,Mombasa,Landing page,2,"15,000",KES
+ORD-1336,2026-03-09,Customer 38,Nairobi,SEO package,1,8000,KES
+ORD-1008,14/07/2026,Customer 164,Mombasa,Maintenance (monthly),1,5000,KES
+ORD-1487,Sep 19 2026,Customer 74,Nairbi,SEO package,3,8000,KES
+ORD-1049,Jan 23 2026,Customer 112,Nairobi,Maintenance (monthly),3,"5,000",KES
+ORD-1577,16/06/2026,Customer 120,mombasa,Maintenance (monthly),1,5000,KES
+ORD-1245,01/09/2026,Customer 167,NAIROBI,Business website,2,"45,000",KES
+ORD-1121,16/07/2026,Customer 28,Kisumu,SEO package,1,8000,KES
+ORD-1125,Jul 06 2026,Customer 34,Nairobi,Speed audit,2,"8,000",KES
+ORD-1583,19/07/2026,Customer 57,Nakuru,SEO package,1,8000,KES
+ORD-1598,Sep 06 2026,Customer 113,Kisumu,SEO package,1,62.02,USD
+ORD-1297,12/07/2026,Customer 48,Nakuru,SEO package,1,8000,KES
+ORD-1494,2026-07-26,Customer 90,Eldoret,Business website,3,45000,KES
+ORD-1278,14/06/2026,Customer 98,Eldoret,Speed audit,2,62.02,USD
+ORD-1495,29/09/2026,Customer 144,Kisumu,Business website,1,45000,KES
+ORD-1128,2026-07-07,Customer 102,Mombasa,Business website,2,348.84,USD
+ORD-1365,Jan 19 2026,Customer 168,Kisumu,SEO package,1,8000,KES
+ORD-1122,2026-06-01,Customer 169,Kisumu,Maintenance (monthly),1,38.76,USD
+ORD-1417,Jul 23 2026,Customer 84,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1500,Aug 11 2026,Customer 19,Nakuru,Business website,1,45000,KES
+ORD-1091,Jan 31 2026,Customer 26,Eldoret,Online store,1,90000,KES
+ORD-1457,Apr 17 2026,Customer 124,mombasa,Online store,3,90000,KES
+ORD-1452,Jan 25 2026,Customer 28,Nakuru,Landing page,3,15000,KES
+ORD-1356,Aug 05 2026,Customer 103,Eldoret,SEO package,3,"8,000",KES
+ORD-1193,Jan 23 2026,Customer 100,Eldoret,Maintenance (monthly),2,38.76,USD
+ORD-1152,08/06/2026,Customer 90,NAIROBI,Online store,1,"90,000",KES
+ORD-1580,21/03/2026,Customer 3,Nakuru,Landing page,1,"15,000",KES
+ORD-1460,10/06/2026,Customer 30,Nairobi,Business website,1,"45,000",KES
+ORD-1320,10/08/2026,Customer 8,Mombasa,SEO package,1,8000,KES
+ORD-1155,11/02/2026,Customer 114,Mombasa ,Landing page,3,15000,KES
+ORD-1464,14/07/2026,Customer 157,Nakuru,Maintenance (monthly),2,"5,000",KES
+ORD-1157,not a date,Customer 102,Eldoret,Online store,3,90000,KES
+ORD-1288,10/05/2026,Customer 69,Mombasa ,Maintenance (monthly),1,5000,KES
+ORD-1259,19/09/2026,Customer 15,Mombasa,Speed audit,3,8000,KES
+ORD-1526,2026-09-03,Customer 152,Kisumu,SEO package,2,"8,000",KES
+ORD-1224,07/06/2026,Customer 6,Mombasa,Business website,3,"45,000",KES
+ORD-1033,Apr 15 2026,Customer 81,Eldoret,Maintenance (monthly),1,38.76,USD
+ORD-1330,28/02/2026,Customer 140,Eldoret,SEO package,3,-500,KES
+ORD-1482,2026-04-22,Customer 54,Eldoret,Maintenance (monthly),3,38.76,USD
+ORD-1199,Jul 08 2026,Customer 69,Kisumu,SEO package,2,8000,KES
+ORD-1517,2026-05-29,Customer 119,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1266,2026-02-27,Customer 170,Nakuru,Business website,1,45000,KES
+ORD-1189,2026-05-28,Customer 78,Eldoret,Maintenance (monthly),2,"5,000",KES
+ORD-1461,Aug 13 2026,Customer 69,NAIROBI,Landing page,1,15000,KES
+ORD-1210,2026-04-13,Customer 61,Mombasa,Speed audit,3,8000,KES
+ORD-1190,Sep 13 2026,Customer 138,Nakuru,Business website,2,"45,000",KES
+ORD-1426,2026-04-13,Customer 64,Eldoret,Maintenance (monthly),1,"5,000",KES
+ORD-1325,Mar 14 2026,Customer 100,Kisumu,Business website,1,45000,KES
+ORD-1581,09/09/2026,Customer 77,Kisumu,Business website,2,"45,000",KES
+ORD-1105,Jan 08 2026,Customer 105,Eldoret,Landing page,1,"15,000",KES
+ORD-1223,23/03/2026,Customer 148,Eldoret,SEO package,1,62.02,USD
+ORD-1264,Jul 21 2026,Customer 33,Eldoret,Speed audit,1,8000,KES
+ORD-1347,2026-06-03,Customer 98, Nairobi ,Speed audit,1,8000,KES
+ORD-1186,2026-07-11,Customer 8,Kisumu,Maintenance (monthly),2,38.76,USD
+ORD-1534,2026-07-09,Customer 179,Eldoret,Maintenance (monthly),2,5000,KES
+ORD-1214,Jun 15 2026,Customer 58,NAIROBI,Landing page,1,15000,KES
+ORD-1342,2026-08-08,Customer 177,Nakuru,Business website,1,348.84,USD
+ORD-1588,09/06/2026,Customer 96,Nairobi,Business website,1,45000,KES
+ORD-1321,2026-04-20,Customer 72,Nakuru,Business website,2,45000,KES
+ORD-1310,05/02/2026,Customer 173,Nakuru,Speed audit,2,8000,KES
+ORD-1386,10/01/2026,Customer 92,Nakuru,Business website,3,45000,KES
+ORD-1142,Aug 07 2026,Customer 28,nairobi,SEO package,2,62.02,USD
+ORD-1017,05/07/2026,Customer 62,Kisumu,Maintenance (monthly),1,"5,000",KES
+ORD-1587,Aug 13 2026,Customer 3,mombasa,Landing page,1,15000,KES
+ORD-1473,2026-07-06,Customer 58,Eldoret,Maintenance (monthly),2,38.76,USD
+ORD-1144,29/09/2026,Customer 117,Eldoret,Maintenance (monthly),2,38.76,USD
+ORD-1253,06/01/2026,Customer 168,Kisumu,SEO package,1,8000,KES
+ORD-1037,10/03/2026,Customer 30,Eldoret,Speed audit,1,62.02,USD
+ORD-1306,18/06/2026,Customer 86,Nakuru,Landing page,3,15000,KES
+ORD-1239,07/05/2026,Customer 143,Kisumu,Online store,2,90000,KES
+ORD-1110,Apr 07 2026,Customer 62,Eldoret,Maintenance (monthly),2,38.76,USD
+ORD-1313,May 08 2026,Customer 171,Eldoret,Online store,1,90000,KES
+ORD-1232,Jun 03 2026,Customer 87,Mombasa,Online store,3,90000,KES
+ORD-1553,Jan 05 2026,Customer 68,Kisumu,Business website,1,45000,KES
+ORD-1379,2026-05-14,Customer 8,Nakuru,Online store,1,90000,KES
+ORD-1281,02/08/2026,Customer 40,mombasa,Speed audit,1,"8,000",KES
+ORD-1372,Apr 29 2026,Customer 106,Mombasa,Landing page,,15000,KES
+ORD-1355,2026-05-15,Customer 11,nairobi,SEO package,3,8000,KES
+ORD-1252,2026-05-08,Customer 67,NAIROBI,SEO package,1,8000,KES
+ORD-1431,2026-01-05,Customer 65,Nairobi,Landing page,1,15000,KES
+ORD-1051,17/06/2026,Customer 179,Kisumu,Landing page,1,15000,KES
+ORD-1409,2026-05-30,Customer 122,mombasa,SEO package,1,8000,KES
+ORD-1346,2026-09-02,Customer 59,Kisumu,Landing page,2,15000,KES
+ORD-1575,2026-09-26,Customer 27,Eldoret,SEO package,1,8000,KES
+ORD-1424,Jul 28 2026,Customer 125,Nairbi,Maintenance (monthly),2,5000,KES
+ORD-1572,22/07/2026,Customer 114,Kisumu,Online store,1,90000,KES
+ORD-1441,06/02/2026,Customer 50,Nairobi,SEO package,1,62.02,USD
+ORD-1052,Mar 31 2026,Customer 146,Mombasa,Business website,2,45000,KES
+ORD-1420,2026-08-31,Customer 45,Kisumu,SEO package,2,8000,KES
+ORD-1229,Jun 23 2026,Customer 94,Nairobi,Business website,1,45000,KES
+ORD-1168,08/06/2026,Customer 116,Eldoret,Online store,1,"90,000",KES
+ORD-1514,Sep 07 2026,Customer 28,Nakuru,SEO package,1,"8,000",KES
+ORD-1218,16/01/2026,Customer 161,Kisumu,Maintenance (monthly),3,5000,KES
+ORD-1557,22/01/2026,Customer 96,Nakuru,Landing page,1,15000,KES
+ORD-1123,2026-05-27,Customer 156,Eldoret,Landing page,3,15000,KES
+ORD-1483,Jun 15 2026,Customer 30,Kisumu,Online store,1,90000,KES
+ORD-1459,01/06/2026,Customer 119,Nairobi,Landing page,1,"15,000",KES
+ORD-1467,08/05/2026,Customer 89,Eldoret,Speed audit,2,8000,KES
+ORD-1375,2026-02-08,Customer 35,Kisumu,Speed audit,2,8000,KES
+ORD-1070,Jan 11 2026,Customer 40,nairobi,Speed audit,1,8000,KES
+ORD-1285,2026-03-19,Customer 56,Mombasa,SEO package,1,8000,KES
+ORD-1174,18/03/2026,Customer 21,Nakuru,Speed audit,1,8000,KES
+ORD-1077,18/05/2026,Customer 63,Nakuru,Maintenance (monthly),2,5000,KES
+ORD-1115,May 01 2026,Customer 176,Nakuru,Online store,1,90000,KES
+ORD-1143,2026-02-03,Customer 71, Nairobi ,SEO package,1,8000,KES
+ORD-1015,Feb 24 2026,Customer 77,Kisumu,Speed audit,1,8000,KES
+ORD-1312,Aug 03 2026,Customer 10,Nakuru,Maintenance (monthly),2,5000,KES
+ORD-1506,2026-07-11,Customer 142,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1031,2026-04-06,Customer 153,mombasa,Maintenance (monthly),3,"5,000",KES
+ORD-1513,2026-07-04,Customer 174,Mombasa ,Online store,2,90000,KES
+ORD-1475,May 30 2026,Customer 134,mombasa,Speed audit,1,8000,KES
+ORD-1120,Jun 26 2026,Customer 77,Kisumu,SEO package,1,8000,KES
+ORD-1154,Jun 16 2026,Customer 153,Nakuru,SEO package,1,"8,000",KES
+ORD-1181,2026-08-29,Customer 95,Nakuru,Speed audit,3,8000,KES
+ORD-1180,02/05/2026,Customer 157,Nakuru,Business website,2,45000,KES
+ORD-1177,2026-09-06,Customer 58,Mombasa ,Online store,1,697.67,USD
+ORD-1510,07/09/2026,Customer 92,Kisumu,Landing page,1,"15,000",KES
+ORD-1080,2026-04-08,Customer 62,Kisumu,Speed audit,1,8000,KES
+ORD-1489,Jul 08 2026,Customer 140,Mombasa,Online store,2,90000,KES
+ORD-1250,2026-04-06,Customer 87,Kisumu,Landing page,2,15000,KES
+ORD-1555,2026-04-13,Customer 62,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1435,2026-06-02,Customer 39,Kisumu,Online store,1,90000,KES
+ORD-1512,06/07/2026,Customer 110,Kisumu,Maintenance (monthly),1,"5,000",KES
+ORD-1389,May 17 2026,Customer 15,mombasa,Business website,1,45000,KES
+ORD-1020,11/07/2026,Customer 133,Mombasa,Speed audit,1,8000,KES
+ORD-1341,2026-08-24,Customer 32,nairobi,Speed audit,1,8000,KES
+ORD-1393,2026-04-14,Customer 88,Nairobi,Business website,1,45000,KES
+ORD-1234,May 16 2026,Customer 149,Eldoret,SEO package,1,8000,KES
+ORD-1408,14/02/2026,Customer 170,mombasa,SEO package,1,8000,KES
+ORD-1472,Feb 16 2026,Customer 159,Nakuru,SEO package,3,8000,KES
+ORD-1095,26/03/2026,Customer 153,Mombasa,Speed audit,1,8000,KES
+ORD-1505,2026-04-23,Customer 101,Nakuru,SEO package,1,8000,KES
+ORD-1579,08/06/2026,Customer 124,Eldoret,Speed audit,3,8000,KES
+ORD-1248,24/02/2026,Customer 73,Kisumu,Business website,1,45000,KES
+ORD-1550,May 12 2026,Customer 148,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1594,2026-07-22,Customer 3,NAIROBI,Online store,1,90000,KES
+ORD-1537,Apr 16 2026,Customer 81, Nairobi ,Speed audit,3,8000,KES
+ORD-1566,25/01/2026,Customer 26,Kisumu,Speed audit,1,8000,KES
+ORD-1118,Jul 15 2026,Customer 175,Eldoret,SEO package,1,8000,KES
+ORD-1565,2026-09-13,Customer 162,Mombasa,Speed audit,1,8000,KES
+ORD-1149,2026-06-30,Customer 148,Nakuru,Speed audit,1,8000,KES
+ORD-1480,Jun 14 2026,Customer 99,mombasa,Speed audit,2,8000,KES
+ORD-1055,2026-04-12,Customer 7,Nairbi,Online store,1,"90,000",KES
+ORD-1554,02/04/2026,Customer 81,Nakuru,Landing page,1,15000,KES
+ORD-1493,2026-07-03,Customer 82,Nairobi,Maintenance (monthly),2,5000,KES
+ORD-1198,12/08/2026,Customer 113,Kisumu,Landing page,1,15000,KES
+ORD-1034,2026-02-07,Customer 118,Mombasa,SEO package,1,8000,KES
+ORD-1004,Jan 23 2026,Customer 118,Nairobi,SEO package,1,8000,KES
+ORD-1238,30/03/2026,Customer 137,Kisumu,Maintenance (monthly),3,5000,KES
+ORD-1352,Apr 07 2026,Customer 101,Kisumu,Speed audit,3,8000,KES
+ORD-1528,Apr 03 2026,Customer 104,mombasa,Maintenance (monthly),1,5000,KES
+ORD-1316,13/01/2026,Customer 27,Eldoret,Speed audit,1,8000,KES
+ORD-1358,03/02/2026,Customer 179,Eldoret,Business website,2,45000,KES
+ORD-1145,21/04/2026,Customer 116, Nairobi ,SEO package,3,8000,KES
+ORD-1030,2026-01-30,Customer 150,Eldoret,Landing page,1,15000,KES
+ORD-1087,29/08/2026,Customer 113,Nakuru,Business website,1,45000,KES
+ORD-1130,Jun 17 2026,Customer 57,Nairbi,Online store,2,90000,KES
+ORD-1547,2026-09-23,Customer 18,Kisumu,SEO package,2,8000,KES
+ORD-1269,Jun 13 2026,Customer 154,Mombasa,Landing page,1,15000,KES
+ORD-1509,not a date,Customer 119,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1192,2026-07-04,Customer 135,Mombasa,SEO package,1,8000,KES
+ORD-1009,11/06/2026,Customer 69,Kisumu,Business website,1,"45,000",KES
+ORD-1576,26/05/2026,Customer 161,Nairobi,Business website,1,"45,000",KES
+ORD-1318,2026-06-03,Customer 30,Nairobi,SEO package,2,"8,000",KES
+ORD-1492,2026-03-21,Customer 40,Nairobi,Online store,2,90000,KES
+ORD-1476,2026-07-29,Customer 66,NAIROBI,Landing page,2,15000,KES
+ORD-1554,02/04/2026,Customer 81,Nakuru,Landing page,1,15000,KES
+ORD-1267,18/01/2026,Customer 154,Mombasa ,Landing page,1,15000,KES
+ORD-1279,12/09/2026,Customer 26,Kisumu,Speed audit,1,8000,KES
+ORD-1104,28/05/2026,Customer 179,Mombasa,Landing page,3,15000,KES
+ORD-1560,24/08/2026,Customer 177,Mombasa,SEO package,1,"8,000",KES
+ORD-1275,2026-04-08,Customer 69,Kisumu,SEO package,3,8000,KES
+ORD-1107,2026-07-16,Customer 154,Nakuru,SEO package,2,8000,KES
+ORD-1169,17/09/2026,Customer 119,Kisumu,Online store,1,90000,KES
+ORD-1011,Aug 08 2026,Customer 103,Eldoret,Speed audit,1,8000,KES
+ORD-1241,16/03/2026,Customer 11,Eldoret,Maintenance (monthly),2,5000,KES
+ORD-1230,2026-01-24,Customer 36,Eldoret,Business website,2,45000,KES
+ORD-1536,not a date,Customer 49,Nairobi,Business website,3,348.84,USD
+ORD-1056,Apr 10 2026,Customer 179,Eldoret,SEO package,2,8000,KES
+ORD-1175,13/02/2026,Customer 144,Kisumu,Business website,2,45000,KES
+ORD-1007,May 17 2026,Customer 175,Mombasa,Online store,1,90000,KES
+ORD-1147,2026-02-13,Customer 111,Kisumu,Online store,2,"90,000",KES
+ORD-1421,Jun 19 2026,Customer 61,Eldoret,Business website,2,"45,000",KES
+ORD-1317,2026-08-22,Customer 134,NAIROBI,Landing page,1,15000,KES
+ORD-1388,Aug 30 2026,Customer 92,Nairobi,Business website,1,45000,KES
+ORD-1449,22/06/2026,Customer 176,Kisumu,Online store,3,90000,KES
+ORD-1568,2026-07-30,Customer 90,Eldoret,Online store,1,90000,KES
+ORD-1410,2026-05-16,Customer 165,Nakuru,Online store,2,697.67,USD
+ORD-1574,2026-02-22,Customer 17,Kisumu,Speed audit,1,8000,KES
+ORD-1191,Jan 01 2026,Customer 91,Eldoret,Maintenance (monthly),1,5000,KES
+ORD-1383,Aug 10 2026,Customer 102,nairobi,Online store,2,90000,KES
+ORD-1102,Jul 26 2026,Customer 1,Kisumu,Online store,1,697.67,USD
+ORD-1507,Jul 21 2026,Customer 141,nairobi,Business website,1,45000,KES
+ORD-1521,2026-01-24,Customer 167,Kisumu,Maintenance (monthly),2,38.76,USD
+ORD-1225,2026-06-30,Customer 13,Eldoret,SEO package,1,8000,KES
+ORD-1074,Jun 27 2026,Customer 110,Eldoret,Speed audit,3,8000,KES
+ORD-1319,23/03/2026,Customer 144,NAIROBI,Online store,1,90000,KES
+ORD-1592,2026-09-24,Customer 65,Kisumu,Online store,1,90000,KES
+ORD-1392,2026-01-20,Customer 15,Nakuru,Business website,1,45000,KES
+ORD-1179,Apr 03 2026,Customer 160,Mombasa,Maintenance (monthly),2,5000,KES
+ORD-1086,2026-01-24,Customer 142,Kisumu,Business website,3,45000,KES
+ORD-1448,2026-06-06,Customer 17,mombasa,Online store,2,90000,KES
+ORD-1012,2026-02-26,Customer 161,Eldoret,Business website,1,"45,000",KES
+ORD-1335,Sep 21 2026,Customer 25,Kisumu,Speed audit,3,"8,000",KES
+ORD-1430,16/04/2026,Customer 167,Eldoret,Business website,1,45000,KES
+ORD-1176,Aug 05 2026,Customer 93,Mombasa,Online store,3,"90,000",KES
+ORD-1164,28/06/2026,Customer 166, Nairobi ,Business website,3,45000,KES
+ORD-1097,21/01/2026,Customer 83,Eldoret,Maintenance (monthly),2,5000,KES
+ORD-1468,2026-01-28,Customer 165,Nakuru,Speed audit,3,62.02,USD
+ORD-1187,Aug 30 2026,Customer 36,Kisumu,Landing page,1,15000,KES
+ORD-1216,2026-03-20,Customer 169,NAIROBI,Maintenance (monthly),3,38.76,USD
+ORD-1211,Mar 08 2026,Customer 23,Kisumu,Landing page,3,"15,000",KES
+ORD-1343,04/07/2026,Customer 22,Kisumu,Speed audit,1,8000,KES
+ORD-1057,24/02/2026,Customer 57,Mombasa ,SEO package,1,62.02,USD
+ORD-1045,20/01/2026,Customer 57,Kisumu,Business website,1,"45,000",KES
+ORD-1429,16/02/2026,Customer 8,Kisumu,Online store,1,90000,KES
+ORD-1350,2026-06-11,Customer 64,Eldoret,Landing page,1,116.28,USD
+ORD-1165,Mar 20 2026,Customer 20,NAIROBI,Business website,1,"45,000",KES
+ORD-1220,15/04/2026,Customer 156,Mombasa,Landing page,2,"15,000",KES
+ORD-1136,2026-01-11,Customer 86,Nakuru,Landing page,1,15000,KES
+ORD-1036,Jun 04 2026,Customer 168,Kisumu,Business website,1,45000,KES
+ORD-1124,Mar 12 2026,Customer 25,Mombasa,Business website,1,45000,KES
+ORD-1126,Jul 07 2026,Customer 129,Kisumu,Online store,1,90000,KES
+ORD-1447,2026-05-08,Customer 178,mombasa,Maintenance (monthly),1,5000,KES
+ORD-1376,27/08/2026,Customer 105,NAIROBI,Maintenance (monthly),1,"5,000",KES
+ORD-1315,24/04/2026,Customer 96,Kisumu,Landing page,3,15000,KES
+ORD-1287,2026-08-09,Customer 28,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1100,Jun 14 2026,Customer 27,Nairobi,SEO package,1,8000,KES
+ORD-1416,2026-08-11,Customer 161,mombasa,Business website,2,"45,000",KES
+ORD-1333,2026-08-08,Customer 158,Mombasa,Business website,3,"45,000",KES
+ORD-1202,May 21 2026,Customer 15,Nairobi,SEO package,3,62.02,USD
+ORD-1490,2026-02-08,Customer 45,Mombasa,Business website,2,45000,KES
+ORD-1164,28/06/2026,Customer 166, Nairobi ,Business website,3,45000,KES
+ORD-1286,Sep 30 2026,Customer 106,Nairobi,Online store,2,"90,000",KES
+ORD-1540,Jul 23 2026,Customer 36,Kisumu,SEO package,3,8000,KES
+ORD-1069,27/01/2026,Customer 58,Kisumu,SEO package,2,8000,KES
+ORD-1390,2026-03-30,Customer 61,Eldoret,Business website,1,348.84,USD
+ORD-1066,2026-08-28,Customer 160,Nakuru,Landing page,2,15000,KES
+ORD-1439,Apr 04 2026,Customer 86,Nakuru,Landing page,1,15000,KES
+ORD-1396,2026-07-02,Customer 171,Nakuru,Speed audit,,8000,KES
+ORD-1465,30/07/2026,Customer 12,Mombasa,Speed audit,2,"8,000",KES
+ORD-1256,Aug 30 2026,Customer 171,Eldoret,SEO package,2,8000,KES
+ORD-1412,2026-02-19,Customer 172,Kisumu,Business website,1,45000,KES
+ORD-1043,Jul 28 2026,Customer 40,Mombasa,Business website,1,45000,KES
+ORD-1134,2026-07-09,Customer 114,Eldoret,SEO package,1,8000,KES
+ORD-1597,27/06/2026,Customer 50,Nakuru,Business website,1,348.84,USD
+ORD-1280,2026-07-31,Customer 145,Nakuru,Speed audit,1,8000,KES
+ORD-1436,Jan 14 2026,Customer 128,Nairobi,Business website,1,45000,KES
+ORD-1381,Feb 13 2026,Customer 151,Mombasa ,Business website,2,45000,KES
+ORD-1502,Aug 19 2026,Customer 104,Nairbi,Maintenance (monthly),1,5000,KES
+ORD-1243,2026-05-03,Customer 13,Eldoret,Online store,1,90000,KES
+ORD-1042,07/06/2026,Customer 11,Eldoret,Maintenance (monthly),2,5000,KES
+ORD-1172,23/03/2026,Customer 96,Nakuru,Business website,3,45000,KES
+ORD-1067,2026-08-08,Customer 119,Eldoret,SEO package,1,"8,000",KES
+ORD-1075,2026-09-08,Customer 111,Eldoret,Landing page,1,116.28,USD
+ORD-1433,Jan 04 2026,Customer 170,Eldoret,Speed audit,2,8000,KES
+ORD-1402,Sep 03 2026,Customer 167,Kisumu,SEO package,2,8000,KES
+ORD-1148,Jun 18 2026,Customer 32,Kisumu,Speed audit,3,8000,KES
+ORD-1573,2026-04-05,Customer 33,Eldoret,Online store,2,90000,KES
+ORD-1438,Mar 29 2026,Customer 143,Nakuru,Speed audit,3,"8,000",KES
+ORD-1046,09/04/2026,Customer 85,Kisumu,SEO package,1,8000,KES
+ORD-1258,26/03/2026,Customer 134,Eldoret,Maintenance (monthly),3,5000,KES
+ORD-1294,May 04 2026,Customer 100,Nakuru,Speed audit,1,8000,KES
+ORD-1481,31/05/2026,Customer 35,Mombasa,Maintenance (monthly),2,38.76,USD
+ORD-1385,2026-09-03,Customer 23,Nairbi,Business website,1,45000,KES
+ORD-1228,May 24 2026,Customer 175,Kisumu,Maintenance (monthly),2,5000,KES
+ORD-1201,2026-08-07,Customer 177,Kisumu,Landing page,1,15000,KES
+ORD-1477,Apr 08 2026,Customer 87,Nairobi,Business website,1,"45,000",KES
+ORD-1344,30/04/2026,Customer 168,mombasa,Speed audit,2,"8,000",KES
+ORD-1025,2026-02-25,Customer 50,nairobi,Speed audit,2,"8,000",KES
+ORD-1078,14/07/2026,Customer 8,Kisumu,Landing page,1,15000,KES
+ORD-1388,Aug 30 2026,Customer 92,Nairobi,Business website,1,45000,KES
+ORD-1357,2026-06-08,Customer 131,Eldoret,Maintenance (monthly),1,5000,KES
+ORD-1257,2026-07-05,Customer 145,Eldoret,Business website,3,"45,000",KES
+ORD-1167,29/08/2026,Customer 162,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1076,Sep 25 2026,Customer 70,Nakuru,Speed audit,2,8000,KES
+ORD-1289,26/04/2026,Customer 176,Kisumu,Landing page,2,-500,KES
+ORD-1276,22/04/2026,Customer 54,Eldoret,Maintenance (monthly),1,5000,KES
+ORD-1163,22/07/2026,Customer 87,Nakuru,Business website,2,45000,KES
+ORD-1021,Apr 28 2026,Customer 57,mombasa,Business website,1,"45,000",KES
+ORD-1268,Apr 30 2026,Customer 56,Mombasa,Landing page,1,15000,KES
+ORD-1156,2026-09-20,Customer 89,Eldoret,SEO package,2,8000,KES
+ORD-1027,2026-02-17,Customer 43,nairobi,Maintenance (monthly),3,38.76,USD
+ORD-1474,Jul 06 2026,Customer 116,Eldoret,Online store,3,"90,000",KES
+ORD-1323,Jul 20 2026,Customer 30,Nakuru,Speed audit,1,8000,KES
+ORD-1398,Apr 24 2026,Customer 145,NAIROBI,Maintenance (monthly),3,"5,000",KES
+ORD-1324,Feb 13 2026,Customer 35,Eldoret,SEO package,1,62.02,USD
+ORD-1005,Jul 05 2026,Customer 50,Nairobi,SEO package,3,62.02,USD
+ORD-1308,05/05/2026,Customer 97,Kisumu,SEO package,2,62.02,USD
+ORD-1434,25/02/2026,Customer 17,Eldoret,Online store,3,90000,KES
+ORD-1334,May 24 2026,Customer 138,mombasa,Business website,3,"45,000",KES
+ORD-1382,2026-08-16,Customer 24, Nairobi ,Landing page,1,116.28,USD
+ORD-1116,21/02/2026,Customer 43,Nairobi,Business website,1,45000,KES
+ORD-1470,2026-07-26,Customer 21,Nairbi,Online store,3,90000,KES
+ORD-1445,08/08/2026,Customer 110,NAIROBI,SEO package,3,8000,KES
+ORD-1061,2026-05-27,Customer 70,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1444,2026-04-18,Customer 148,Kisumu,Business website,1,45000,KES
+ORD-1589,2026-07-20,Customer 140,Kisumu,Landing page,1,15000,KES
+ORD-1222,2026-03-14,Customer 13,Nakuru,Business website,1,45000,KES
+ORD-1418,2026-08-03,Customer 107,Nakuru,Maintenance (monthly),3,"5,000",KES
+ORD-1450,2026-07-26,Customer 59,Nakuru,Online store,1,90000,KES
+ORD-1178,2026-09-27,Customer 170,Nairobi,Business website,1,45000,KES
+ORD-1171,Feb 13 2026,Customer 166,Nakuru,Landing page,1,116.28,USD
+ORD-1567,19/02/2026,Customer 86,Mombasa,Landing page,2,116.28,USD
+ORD-1028,02/01/2026,Customer 68,Mombasa,SEO package,1,8000,KES
+ORD-1399,2026-06-13,Customer 163,Mombasa,SEO package,1,8000,KES
+ORD-1040,2026-05-15,Customer 114,nairobi,Online store,1,90000,KES
+ORD-1195,Aug 26 2026,Customer 123,Eldoret,Online store,1,90000,KES
+ORD-1485,Jan 28 2026,Customer 15, Nairobi ,SEO package,1,"8,000",KES
+ORD-1413,Jul 18 2026,Customer 108,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1374,14/05/2026,Customer 101,Nairobi,Maintenance (monthly),1,5000,KES
+ORD-1019,2026-08-05,Customer 139,Mombasa,Maintenance (monthly),,38.76,USD
+ORD-1504,Jun 04 2026,Customer 23,Kisumu,Landing page,1,15000,KES
+ORD-1328,09/09/2026,Customer 114,Eldoret,SEO package,,8000,KES
+ORD-1304,04/08/2026,Customer 124,mombasa,SEO package,1,8000,KES
+ORD-1048,11/08/2026,Customer 81,Mombasa,Online store,1,90000,KES
+ORD-1464,14/07/2026,Customer 157,Nakuru,Maintenance (monthly),2,"5,000",KES
+ORD-1419,21/02/2026,Customer 138,Eldoret,Maintenance (monthly),1,-500,USD
+ORD-1295,Feb 10 2026,Customer 89,Kisumu,Maintenance (monthly),1,"5,000",KES
+ORD-1359,01/03/2026,Customer 157,Nairbi,Business website,1,348.84,USD
+ORD-1353,Sep 13 2026,Customer 153,Mombasa,Landing page,2,"15,000",KES
+ORD-1460,10/06/2026,Customer 30,Nairobi,Business website,1,"45,000",KES
+ORD-1543,2026-07-09,Customer 156,Nakuru,Maintenance (monthly),1,"5,000",KES
+ORD-1249,Mar 10 2026,Customer 120,Eldoret,Speed audit,2,62.02,USD
+ORD-1088,25/07/2026,Customer 19,Kisumu,Landing page,1,15000,KES
+ORD-1247,2026-04-01,Customer 102,NAIROBI,Speed audit,2,62.02,USD
+ORD-1405,16/01/2026,Customer 168,Kisumu,Landing page,3,116.28,USD
+ORD-1166,Aug 18 2026,Customer 145,Nakuru,Speed audit,3,8000,KES
+ORD-1370,Jun 27 2026,Customer 178,mombasa,Business website,2,45000,KES
+ORD-1039,2026-01-27,Customer 163,Kisumu,Speed audit,2,8000,KES
+ORD-1511,10/04/2026,Customer 125,mombasa,Speed audit,1,8000,KES
+ORD-1111,15/07/2026,Customer 170,Nakuru,Business website,1,45000,KES
+ORD-1558,19/09/2026,Customer 102,Eldoret,SEO package,2,8000,KES
+ORD-1530,Apr 04 2026,Customer 169,Eldoret,SEO package,3,8000,KES
+ORD-1204,07/07/2026,Customer 99,Nakuru,Speed audit,1,8000,KES
+ORD-1292,2026-01-24,Customer 176,Mombasa ,Landing page,3,15000,KES
+ORD-1047,2026-06-19,Customer 30,Kisumu,Landing page,3,15000,KES
+ORD-1153,2026-01-16,Customer 136,Eldoret,Business website,1,45000,KES
+ORD-1415,2026-08-18,Customer 43,Eldoret,Maintenance (monthly),1,5000,KES
+ORD-1131,2026-01-24,Customer 78,Nakuru,Speed audit,2,8000,KES
+ORD-1119,24/08/2026,Customer 171,Mombasa ,Maintenance (monthly),2,"5,000",KES
+ORD-1127,2026-06-23,Customer 120,Kisumu,Business website,1,45000,KES
+ORD-1298,May 07 2026,Customer 19,Nakuru,Speed audit,3,"8,000",KES
+ORD-1455,02/03/2026,Customer 30,Mombasa,Maintenance (monthly),1,5000,KES
+ORD-1593,2026-04-22,Customer 61,Mombasa,Online store,1,697.67,USD
+ORD-1271,Aug 07 2026,Customer 127,Eldoret,Landing page,1,"15,000",KES
+ORD-1141,Jan 23 2026,Customer 169,Eldoret,Maintenance (monthly),2,5000,KES
+ORD-1159,Sep 30 2026,Customer 59,Nakuru,Landing page,1,15000,KES
+ORD-1364,2026-01-02,Customer 4,Eldoret,Landing page,1,15000,KES
+ORD-1471,02/03/2026,Customer 168,Nakuru,Maintenance (monthly),2,"5,000",KES
+ORD-1038,Apr 18 2026,Customer 88,Eldoret,Speed audit,1,8000,KES
+ORD-1096,Jun 05 2026,Customer 104,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1158,12/03/2026,Customer 75,Nairbi,Landing page,1,116.28,USD
+ORD-1282,22/06/2026,Customer 126,Nakuru,Business website,1,45000,KES
+ORD-1022,2026-06-19,Customer 132,Nairbi,Speed audit,1,62.02,USD
+ORD-1549,Jul 28 2026,Customer 28,Nakuru,SEO package,1,8000,KES
+ORD-1539,2026-09-05,Customer 95,Nakuru,Speed audit,2,8000,KES
+ORD-1227,Jan 27 2026,Customer 144,Kisumu,Speed audit,1,"8,000",KES
+ORD-1307,13/04/2026,Customer 81,Eldoret,Speed audit,1,"8,000",KES
+ORD-1006,21/02/2026,Customer 72,Mombasa,Landing page,1,116.28,USD
+ORD-1309,Apr 03 2026,Customer 141,Kisumu,SEO package,3,"8,000",KES
+ORD-1138,2026-03-16,Customer 139,Kisumu,Business website,3,45000,KES
+ORD-1016,Mar 24 2026,Customer 136,Eldoret,Maintenance (monthly),1,5000,KES
+ORD-1291,Jun 19 2026,Customer 25,Nairobi,Business website,2,45000,KES
+ORD-1035,2026-05-16,Customer 90, Nairobi ,Maintenance (monthly),3,5000,KES
+ORD-1000,Mar 13 2026,Customer 27,nairobi,Speed audit,1,8000,KES
+ORD-1406,08/04/2026,Customer 179,mombasa,SEO package,1,8000,KES
+ORD-1458,2026-09-10,Customer 24, Nairobi ,Landing page,1,116.28,USD
+ORD-1463,2026-01-31,Customer 27,Nakuru,Speed audit,1,8000,KES
+ORD-1368,05/01/2026,Customer 52,Kisumu,Online store,1,90000,KES
+ORD-1260,Aug 25 2026,Customer 79,Nakuru,Maintenance (monthly),3,5000,KES
+ORD-1384,06/04/2026,Customer 72,Nakuru,SEO package,1,8000,KES
+ORD-1219,27/07/2026,Customer 117,Kisumu,Speed audit,1,"8,000",KES
+ORD-1246,Feb 15 2026,Customer 147,Kisumu,Online store,1,697.67,USD
+ORD-1331,2026-08-06,Customer 168,Eldoret,Online store,2,90000,KES
+ORD-1440,19/06/2026,Customer 67,Kisumu,Business website,1,45000,KES
+ORD-1422,05/06/2026,Customer 72,Kisumu,SEO package,1,8000,KES
+ORD-1380,2026-02-22,Customer 32,Eldoret,SEO package,1,"8,000",KES
+ORD-1332,14/02/2026,Customer 31,Nairobi,Online store,1,90000,KES
+ORD-1322,2026-06-16,Customer 118,Eldoret,Landing page,3,"15,000",KES
+ORD-1360,2026-01-06,Customer 128,mombasa,Online store,1,90000,KES
+ORD-1453,Mar 05 2026,Customer 65, Nairobi ,Landing page,2,15000,KES
+ORD-1546,2026-01-01,Customer 23,Eldoret,Business website,1,45000,KES
+ORD-1161,02/08/2026,Customer 30,Kisumu,Landing page,2,15000,KES
+ORD-1345,Apr 26 2026,Customer 175,Nairbi,Landing page,2,15000,KES
+ORD-1516,2026-04-19,Customer 142,nairobi,Landing page,3,15000,KES
+ORD-1411,23/01/2026,Customer 113,Kisumu,Business website,1,45000,KES
+ORD-1184,24/03/2026,Customer 116,Eldoret,Speed audit,1,8000,KES
+ORD-1170,Jun 14 2026,Customer 122,Nairobi,Speed audit,3,8000,KES
+ORD-1106,May 30 2026,Customer 70,Nakuru,Landing page,1,15000,KES
+ORD-1437,08/04/2026,Customer 57,Nakuru,Online store,2,90000,KES
+ORD-1469,09/09/2026,Customer 62,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1366,Feb 09 2026,Customer 96,Mombasa,Online store,1,"90,000",KES
+ORD-1108,17/09/2026,Customer 1,Nairobi,Business website,2,45000,KES
+ORD-1582,2026-07-11,Customer 106,Kisumu,SEO package,1,8000,KES
+ORD-1183,04/09/2026,Customer 142,Eldoret,Business website,1,45000,KES
+ORD-1254,Jul 27 2026,Customer 129, Nairobi ,Business website,2,45000,KES
+ORD-1596,Mar 20 2026,Customer 138,Eldoret,Speed audit,1,8000,KES
+ORD-1197,Jan 19 2026,Customer 49,Eldoret,Online store,3,90000,KES
+ORD-1194,Feb 23 2026,Customer 86,Nairobi,Online store,,"90,000",KES
+ORD-1394,2026-03-14,Customer 135,nairobi,Online store,1,90000,KES
+ORD-1544,2026-01-30,Customer 164,Nakuru,SEO package,3,8000,KES
+ORD-1236,2026-08-03,Customer 106,Nairbi,Maintenance (monthly),1,5000,KES
+ORD-1103,Jul 05 2026,Customer 128,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1099,Apr 03 2026,Customer 112,Nakuru,Business website,2,348.84,USD
+ORD-1531,28/04/2026,Customer 99,Kisumu,Business website,3,"45,000",KES
+ORD-1221,Jul 09 2026,Customer 144,Kisumu,Speed audit,2,"8,000",KES
+ORD-1079,13/05/2026,Customer 72,Mombasa,Online store,1,90000,KES
+ORD-1311,05/08/2026,Customer 19,Kisumu,Speed audit,1,8000,KES
+ORD-1591,17/04/2026,Customer 100,Mombasa,Landing page,1,15000,KES
+ORD-1041,Mar 18 2026,Customer 10,Eldoret,SEO package,1,8000,KES
+ORD-1541,2026-03-24,Customer 55,Nairbi,Speed audit,2,8000,KES
+ORD-1272,2026-07-29,Customer 77,Nakuru,Online store,1,90000,KES
+ORD-1059,Aug 15 2026,Customer 130,Eldoret,Speed audit,3,8000,KES
+ORD-1377,2026-03-03,Customer 41,Mombasa,Online store,1,90000,KES
+ORD-1425,17/09/2026,Customer 35,NAIROBI,Online store,1,90000,KES
+ORD-1571,2026-02-06,Customer 42,Kisumu,Business website,3,45000,KES
+ORD-1369,2026-09-10,Customer 140,Eldoret,Online store,2,90000,KES
+ORD-1062,Mar 20 2026,Customer 55,NAIROBI,Maintenance (monthly),1,"5,000",KES
+ORD-1479,2026-09-18,Customer 178,Nairobi,Speed audit,3,8000,KES
+ORD-1081,09/09/2026,Customer 5,Eldoret,SEO package,2,"8,000",KES
+ORD-1503,Feb 02 2026,Customer 150,Nakuru,Landing page,3,"15,000",KES
+ORD-1213,2026-04-04,Customer 111,Nakuru,SEO package,1,8000,KES
+ORD-1013,Aug 28 2026,Customer 65,Nakuru,Speed audit,1,8000,KES
+ORD-1072,14/01/2026,Customer 148,NAIROBI,Speed audit,1,8000,KES
+ORD-1226,25/02/2026,Customer 35,Nakuru,Maintenance (monthly),3,5000,KES
+ORD-1375,2026-02-08,Customer 35,Kisumu,Speed audit,2,8000,KES
+ORD-1050,Jun 19 2026,Customer 81,Mombasa,Maintenance (monthly),2,5000,KES
+ORD-1262,2026-07-29,Customer 35, Nairobi ,Maintenance (monthly),2,5000,KES
+ORD-1538,Aug 05 2026,Customer 94,Mombasa,Landing page,3,15000,KES
+ORD-1501,2026-02-07,Customer 46,Nairobi,Business website,1,45000,KES
+ORD-1397,Jan 01 2026,Customer 147,Nakuru,Business website,1,45000,KES
+ORD-1584,20/05/2026,Customer 167,Mombasa,SEO package,3,8000,KES
+ORD-1302,Feb 13 2026,Customer 144,Nairobi,SEO package,2,8000,KES
+ORD-1101,Jul 25 2026,Customer 10,Nakuru,Online store,1,90000,KES
+ORD-1196,2026-01-23,Customer 11,Nairobi,Business website,1,45000,KES
+ORD-1497,2026-05-25,Customer 133,Nairobi,SEO package,1,8000,KES
+ORD-1109,Aug 17 2026,Customer 124,Eldoret,Online store,2,697.67,USD
+ORD-1206,2026-05-08,Customer 7,Kisumu,Maintenance (monthly),1,5000,KES
+ORD-1032,Jan 21 2026,Customer 21,Nakuru,Business website,3,45000,KES
+ORD-1182,Sep 15 2026,Customer 108,Nakuru,Maintenance (monthly),1,5000,KES
+ORD-1132,21/08/2026,Customer 172,Nairbi,Landing page,3,15000,KES
+ORD-1044,20/06/2026,Customer 172,Mombasa ,Business website,2,45000,KES
+ORD-1068,22/06/2026,Customer 72,Nakuru,Online store,1,90000,KES
+ORD-1535,20/02/2026,Customer 35,Nakuru,Business website,1,45000,KES
+ORD-1098,Jan 11 2026,Customer 69,Nairbi,Landing page,3,15000,KES
+ORD-1113,2026-03-21,Customer 121,NAIROBI,SEO package,2,62.02,USD
+ORD-1329,2026-05-21,Customer 138,Eldoret,Landing page,1,15000,KES
